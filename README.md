@@ -1,5 +1,5 @@
 # Create a Voice Assistant with OpenAI's GPT-3 and IBM Watson  
-![cognitiveclass.ai logo](https://cognitiveclass.ai/images/logo.png)
+![Voice Chatbot](https://github.com/frozzel/Chat-app-with-voice-and-open-ai/blob/5fc274047fddfcf2306fe2fed9143588bf24c43d/screenshot.png)
  
 
 ---
